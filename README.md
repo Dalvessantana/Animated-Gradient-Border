@@ -6,8 +6,8 @@ Este projeto apresenta um componente de card moderno onde as bordas ganham vida 
 Explorar o uso de **pseudo-elementos (`::before` / `::after`)** combinados com `conic-gradient` e `@keyframes` para criar bordas dinâmicas que não sobrecarregam a performance da página.
 
 ## 🛠️ Tecnologias
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## ✨ Diferenciais Técnicos
 - **Animação de Gradiente:** Rotação suave de cores que cria a ilusão de movimento contínuo nas bordas.
